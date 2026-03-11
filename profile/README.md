@@ -1,17 +1,24 @@
-<p align="center">
-  <a href="https://billions.network">
-    <img src="https://github.com/BillionsNetwork.png" alt="BillionsNetwork Logo" width="120" />
-  </a>
-</p>
+<div align="center">
+<a href="https://billions.network/" target="_blank"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/billions.png" width="420px"/></a>
+</div>
+<br />
+<div align="center">
 
-<h1 align="center">BillionsNetwork</h1>
+[![Billions on X][ico-billions]][link-billions]
 
-<p align="center">
-  <a href="https://billions.network">🌐 billions.network</a>
-</p>
+</div>
+
+[ico-billions]: https://img.shields.io/twitter/follow/billions_ntwk?label=Billions%20Network
+[link-billions]: https://x.com/billions_ntwk
 
 ---
 
-Welcome to the official GitHub organization of **BillionsNetwork**!
+# Billions Network
 
-Visit our official website at [https://billions.network](https://billions.network) to learn more about what we're building.
+[Billions](https://billions.network/) is the global human and AI network, built on mobile-first verification to scale the internet of value. We uniquely verify the identity and uniqueness of humans and AI agents, empowering users with personalized experiences and rewards.
+
+Our network is designed to be accessible, scalable, and anonymous, making trust between humans and AI seamless and intuitive for everyone.
+
+Billions Deep Trust Paper: https://billions.network/aideeptrust
+
+More Billions repos are available under [0xPolygonID](https://github.com/0xPolygonID/) github org.
