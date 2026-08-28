@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://billions.network/" target="_blank"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/billions.png" width="420px"/></a>
+<a href="https://billions.network/" target="_blank"><img src="https://github.com/PrivadoID/.github/blob/main/profile/billions.png" width="420px"/></a>
 </div>
 <br />
 <div align="center">
@@ -19,6 +19,6 @@
 
 Our network is designed to be accessible, scalable, and anonymous, making trust between humans and AI seamless and intuitive for everyone.
 
-Billions Deep Trust Paper: https://billions.network/aideeptrust
+Billions AI DeepTrust Paper: https://billions.network/aideeptrust
 
-More Billions repos are available under [0xPolygonID](https://github.com/0xPolygonID/) github org.
+Billions Network is built using [Privado ID](https://github.com/PrivadoID/) framework and by Privado ID team.
